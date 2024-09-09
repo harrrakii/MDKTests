@@ -1,0 +1,6 @@
+C:\Users\kira0\source\repos\LineCheck\LineCheck\bin\Debug\LineCheck.dll
+C:\Users\kira0\source\repos\LineCheck\LineCheck\bin\Debug\LineCheck.pdb
+C:\Users\kira0\source\repos\LineCheck\LineCheck\obj\Debug\LineCheck.csproj.AssemblyReference.cache
+C:\Users\kira0\source\repos\LineCheck\LineCheck\obj\Debug\LineCheck.csproj.CoreCompileInputs.cache
+C:\Users\kira0\source\repos\LineCheck\LineCheck\obj\Debug\LineCheck.dll
+C:\Users\kira0\source\repos\LineCheck\LineCheck\obj\Debug\LineCheck.pdb
